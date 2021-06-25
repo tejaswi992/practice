@@ -6,7 +6,8 @@ public class Arrays {
 		// TODO Auto-generated method stub
 		
 		int[] arr; 
-        
+        int ab;
+        String name = "Teja";
 	      // allocating memory for 5 integers. 
 	      arr = new int[5]; 
 	          
